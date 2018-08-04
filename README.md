@@ -1,8 +1,3 @@
-# geo_tag_diary
+# Flutter-ReduRx-GeoTagDiary
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This is the result code of part 1:
